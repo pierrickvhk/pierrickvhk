@@ -1,41 +1,42 @@
-# 👋 Hey, I’m **Pierrick Van Hoecke**
+# Pierrick Van Hoecke — Data Engineer (building toward AI Engineering) 🚀
 
-I’m a **Cloud Engineer** and **AI & Data Science student** passionate about technology, creativity, and personal growth.  
-Over the past two years, I’ve gained hands-on experience working at **Cegeka (formerly DexMach)**, supporting and securing hybrid cloud environments for large companies.  
-That experience taught me to **learn by doing**, think in **solutions rather than problems**, and stay precise and reliable in everything I do.  
+Hey, I’m Pierrick 👋  
+I’m a BeCode AI/Data student and project-driven builder focusing on **Data Engineering foundations** (ingest → transform → store → serve) to grow into reliable **AI/ML systems engineering** 🤖📈  
+I bring hands-on **Azure** production experience from Cloud Operator roles (DexMach → Cegeka) 🌥️
 
-Now, I’m expanding my path toward **Data Science and Artificial Intelligence**, where I combine my cloud background with a drive to build intelligent, automated, and meaningful projects.
+## 🔥 Featured projects
+- 🚚 **Delivery Market Analysis** — SQLite → DuckDB semantic layer → Streamlit analytics app  
+  https://github.com/pierrickvhk/delivery-market-analysis
+- 🚆 **RailOps (Azure Train Data Pipeline)** — iRail ingestion + normalization + storage + API-ready dataset  
+  https://github.com/pierrickvhk/challenge-azure
+- 🏠 **Immo Eliza (Deployment)** — FastAPI + Docker + Streamlit (production-style delivery)  
+  https://github.com/pierrickvhk/immo-eliza-deployment
 
----
+## 🎓 BeCode — AI & Data Bootcamp (project-based sprints)
+Learning by building in sprints across:
+- 🧠 **Foundations:** Python, Git/GitHub, clean code habits
+- 📥 **Data work:** APIs/scraping, preprocessing, analytics & visualization
+- ⚙️ **Production:** APIs, containers, CI/testing basics
+- 🏗️ **Data engineering modules:** databases, orchestration, cloud & modern data stacks
 
-## 💡 What I’m Currently Working On
-- Expanding my skills in **Python**, **Machine Learning**, and **Data Engineering**  
-- Building small **AI automation projects** that connect **Azure** and **data**  
-- Exploring how **AI** can enhance creativity and **music production**
+## 🎯 What I’m focusing on now
+- 🧱 Data engineering fundamentals: modeling, orchestration, reliability, observability
+- 🛠️ Shipping with engineering habits: typing, pytest, logging, Docker, CI
+- 📍 Growing toward AI/ML engineering on top of solid data systems
 
----
+## 🧰 Tech stack
+**Core:** Python • SQL • Git/GitHub  
+**Data:** pandas • DuckDB • SQLite • data modeling • ETL/ELT  
+**Orchestration:** Apache Airflow  
+**Backend:** FastAPI • REST • Pydantic  
+**Quality:** pytest • GitHub Actions (CI) • logging • typing  
+**DevOps:** Docker  
+**Cloud:** Microsoft Azure • Azure Functions • monitoring/ops experience
 
-## 🧠 Tech Stack
-`Microsoft Azure` · `Python` · `Terraform` · `GitHub` · `PowerShell` · `Bash` · `Microsoft Defender for Cloud` · `Data Science (in progress)`
+## ✅ How I work
+- Small, shippable increments 🧩
+- Reproducible runs + clean repo structure 📦
+- Tests > vibes 🧪
 
----
-
-## 🌱 What I Believe In
-I believe growth happens through **curiosity, consistency, and hands-on learning**.  
-Technology isn’t just about systems or data — it’s about **creating impact**, **solving problems**, and sometimes even **making something that sounds good** 🎶  
-
----
-
-## 🎵 Outside of Tech
-When I’m not studying or building, I’m producing **Jump-Up Drum & Bass**, spending time at the gym, or exploring new ideas to push myself further — both creatively and personally.
-
----
-
-## 📫 Let’s Connect
-- **LinkedIn:** [linkedin.com/in/pierrickvanhoecke](https://linkedin.com/in/pierrickvanhoecke)  
-- **Email:** [pierrick.vanhoecke@bunko.be](mailto:pierrick.vanhoecke@bunko.be)  
-- **GitHub:** You’re already here 🚀  
-
----
-
-✨ *“Keep building, keep learning, and stay curious.”*  
+## 🤝 Connect
+- LinkedIn: https://www.linkedin.com/in/pierrick-van-hoecke/
