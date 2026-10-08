@@ -12,12 +12,12 @@
   ║  ◉  PIERRICK.OS                                    ─  □  ×       ║
   ╠══════════════════════════════════════════════════════════════════╣
   ║                                                                  ║
-  ║  ██████╗ ██╗███████╗██████╗ ██████╗ ██╗ ██████╗██╗  ██╗        ║
-  ║  ██╔══██╗██║██╔════╝██╔══██╗██╔══██╗██║██╔════╝██║ ██╔╝        ║
-  ║  ██████╔╝██║█████╗  ██████╔╝██████╔╝██║██║     █████╔╝         ║
-  ║  ██╔═══╝ ██║██╔══╝  ██╔══██╗██╔══██╗██║██║     ██╔═██╗         ║
-  ║  ██║     ██║███████╗██║  ██║██║  ██║██║╚██████╗██║  ██╗        ║
-  ║  ╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝ ╚═════╝╚═╝  ╚═╝        ║
+  ║   ██████╗ ██╗███████╗██████╗ ██████╗ ██╗ ██████╗██╗  ██╗         ║
+  ║   ██╔══██╗██║██╔════╝██╔══██╗██╔══██╗██║██╔════╝██║ ██╔╝         ║
+  ║   ██████╔╝██║█████╗  ██████╔╝██████╔╝██║██║     █████╔╝          ║
+  ║   ██╔═══╝ ██║██╔══╝  ██╔══██╗██╔══██╗██║██║     ██╔═██╗          ║
+  ║   ██║     ██║███████╗██║  ██║██║  ██║██║╚██████╗██║  ██╗         ║
+  ║   ╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝ ╚═════╝╚═╝  ╚═╝         ║
   ║                                                                  ║
   ║           T H E   C R E A T I V E   L A B                        ║
   ║                                                                  ║
@@ -47,15 +47,15 @@
 
 ```text
 ╭──────────────────────────────────────────────────────────────╮
-│ pierrick@creative-lab:~$ neofetch --builder                 │
+│ pierrick@creative-lab:~$ neofetch --builder                  │
 ├──────────────────────────────────────────────────────────────┤
-│ USER       Pierrick Van Hoecke                              │
+│ USER       Pierrick Van Hoecke                               │
 │ CLASS      AI & Automation Engineer                          │
-│ CURRENT    ING Belgium                                      │
-│ HOME       Belgium                                          │
+│ CURRENT    ING Belgium                                       │
+│ HOME       Belgium                                           │
 │ TOOLKIT    Python · Azure · Copilot · Power Platform         │
-│ QUEST      From useful prototypes to production systems     │
-│ PASSIVE    Sees a problem → starts a side project           │
+│ QUEST      From useful prototypes to production systems      │
+│ PASSIVE    Sees a problem → starts a side project            │
 │ STATUS     [██████████████████░░] always learning            │
 ╰──────────────────────────────────────────────────────────────╯
 ```
@@ -68,32 +68,32 @@
 
 ```text
 ╔══════════════════════════════════════════════════════════════════╗
-║    W O R K S T A T I O N    //    TWO SCREENS, TOO MANY IDEAS   ║
+║    W O R K S T A T I O N    //    TWO SCREENS, TOO MANY IDEAS    ║
 ╠══════════════════════════════════════════════════════════════════╣
 ║                                                                  ║
 ║  ┌────────────────────────┐  ┌─────────────────────────────┐     ║
 ║  │ ◉  PROJECT EXPLORER    │  │ ◉  BUILD MONITOR            │     ║
 ║  ├────────────────────────┤  ├─────────────────────────────┤     ║
 ║  │ ~/lab $ tree           │  │ ./ship --keep-learning      │     ║
-║  │ ├── pipresent/         │  │                              │     ║
+║  │ ├── pipresent/         │  │                             │     ║
 ║  │ ├── startblok/         │  │ PYTHON        [✓]           │     ║
 ║  │ ├── mskill-compass/    │  │ AI AGENTS     [✓]           │     ║
 ║  │ ├── whos-the-winner/   │  │ CLOUD         [✓]           │     ║
-║  │ └── music-lab/        │  │ IDEAS          [∞]           │     ║
-║  │                        │  │                              │     ║
-║  │ > _                    │  │ BUILD → TEST → SHIP → LEARN   │     ║
+║  │ └── music-lab/         │  │ IDEAS          [∞]          │     ║
+║  │                        │  │                             │     ║
+║  │ > _                    │  │ BUILD → TEST → SHIP → LEARN │     ║
 ║  └───────────┬────────────┘  └─────────────┬───────────────┘     ║
 ║              │                             │                     ║
 ║              └────────────┬────────────────┘                     ║
 ║                           │                                      ║
-║                   ╭───────┴────────╮         .──────────.        ║
-║                   │  LAB SERVER    │        /  ◉    ◉  \        ║
-║                   │ [●] [●] [●]    ├────────┤     ▿     │        ║
-║                   │  > RUNNING_    │        \  \\____//  /        ║
-║                   ╰────────────────╯         '──┬───┬─'          ║
-║                                                ╱     ╲           ║
+║                   ╭───────┴────────╮          .────────.         ║
+║                   │  LAB SERVER    │         /  ◉    ◉  \        ║
+║                   │ [●] [●] [●]    ├────────┤     ▿      │       ║
+║                   │  > RUNNING_    │         \ \\____// /        ║
+║                   ╰────────────────╯          '──┬───┬─'         ║
+║                                                 ╱     ╲          ║
 ║                                                                  ║
-║  [!] WARNING: TOO MANY SIDE QUESTS DETECTED. CONTINUE? [Y/n]    ║
+║  [!] WARNING: TOO MANY SIDE QUESTS DETECTED. CONTINUE? [Y/n]     ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
@@ -111,10 +111,10 @@
 ├────┬──────────────────────────┬──────────────────────────────┤
 │ 01 │ PiPresent                │ PUBLIC / HARDWARE + PYTHON   │
 │ 02 │ Startblok                │ PROTOTYPE / PRODUCT          │
-│ 03 │ MSkill Compass           │ CONCEPT / LEARNING HUB      │
-│ 04 │ Who's the Winner?        │ EXPERIMENT / F1 + DATA      │
-│ 05 │ AI DnB Mix Architect     │ EXPLORING / AUDIO + CODE    │
-│ 06 │ Immo Eliza               │ PUBLIC / MACHINE LEARNING   │
+│ 03 │ MSkill Compass           │ CONCEPT / LEARNING HUB       │
+│ 04 │ Who's the Winner?        │ EXPERIMENT / F1 + DATA       │
+│ 05 │ AI DnB Mix Architect     │ EXPLORING / AUDIO + CODE     │
+│ 06 │ Immo Eliza               │ PUBLIC / MACHINE LEARNING    │
 └────┴──────────────────────────┴──────────────────────────────┘
 ```
 
@@ -157,7 +157,7 @@ A people-first planning app prototype developed with a coaching practice. Explor
 
 ```text
      [ START ] ──► [ COPILOT ] ──► [ POWER PLATFORM ]
-         │             │                 │
+         │              │                │
          └────────► [ SKILL TREE ] ◄─────┘
                         │
                     [ LEVEL UP ]
@@ -174,7 +174,7 @@ An idea for a more playful Microsoft learning hub, bringing learning paths, hand
        WEATHER ──┐
        HISTORY ──┼──► [ MODEL ] ──► [ PREDICTION ]
        FORM ─────┘                      │
-                                      ▼
+                                        ▼
                               [ EVALUATE / LEARN ]
 ```
 
@@ -208,12 +208,12 @@ A Belgian property-price prediction project built as an end-to-end ML applicatio
 
 ```text
 ╭──────────────────────────────────────────────────────────╮
-│  CHARACTER PROFILE                          CLASS: MAKER  │
+│  CHARACTER PROFILE                          CLASS: MAKER │
 ├──────────────────────────────────────────────────────────┤
 │  NAME       Pierrick Van Hoecke                          │
-│  MINDSET    Curious. Practical. A little experimental.    │
+│  MINDSET    Curious. Practical. A little experimental.   │
 │  SPECIAL    Turns "what if?" into "let's build it"       │
-│  GOAL       Engineer AI that works outside a demo         │
+│  GOAL       Engineer AI that works outside a demo        │
 ╰──────────────────────────────────────────────────────────╯
 ```
 
@@ -280,7 +280,7 @@ The connecting thread: **think creatively, engineer carefully, ship something us
     STUDIO        AUTOMATE                  AZ-900 ✓    APIs / ML
          │           │                          │          │
          └─────┬─────┘                          └─────┬────┘
-               └─────────────► [ KEEP BUILDING ] ◄───┘
+               └─────────────► [ KEEP BUILDING ] ◄────┘
 ```
 
 **Unlocked**
@@ -300,13 +300,13 @@ The connecting thread: **think creatively, engineer carefully, ship something us
 
 ```text
   ╔══════════════════════════════════════════════════════════╗
-  ║  BUILD.LOG                                  TAIL -F       ║
+  ║  BUILD.LOG                                  TAIL -F      ║
   ╠══════════════════════════════════════════════════════════╣
-  ║  [2026] PiPresent    → public Python + hardware project   ║
-  ║  [2026] Startblok    → human-centred app prototype         ║
-  ║  [2026] MSkill       → pixel-style learning hub concept   ║
-  ║  [2026] F1 Lab       → prediction / evaluation concept    ║
-  ║  [NEXT] ???          → probably another side quest        ║
+  ║  [2026] PiPresent    → public Python + hardware project  ║
+  ║  [2026] Startblok    → human-centred app prototype       ║
+  ║  [2026] MSkill       → pixel-style learning hub concept  ║
+  ║  [2026] F1 Lab       → prediction / evaluation concept   ║
+  ║  [NEXT] ???          → probably another side quest       ║
   ╚══════════════════════════════════════════════════════════╝
 ```
 
@@ -331,9 +331,9 @@ This is the part that keeps changing. Every worthwhile build should leave a trac
 ## `> 06 / SIDE QUESTS & CONNECTIONS`
 
 ```text
-    ┌─────────────────── SIDE QUEST INVENTORY ───────────────────┐
-    │  [♫] Drum & bass    [🏁] Formula 1    [▣] Tiny computers │
-    │  [◇] UI experiments [⚙] Automation   [∞] Random ideas   │
+    ┌─────────────────── SIDE QUEST INVENTORY ──────────────────┐
+    │  [♫] Drum & bass    [🏁] Formula 1    [▣]zTiny computers  │
+    │  [◇] UI experiments [⚙] Automation   [∞] Random ideas     │
     └───────────────────────────────────────────────────────────┘
 ```
 
@@ -346,7 +346,7 @@ I like meeting people who build in public, experiment with AI, create open-sourc
 
 ```text
 ╭──────────────────────────────────────────────────────────────╮
-│ pierrick@creative-lab:~$ echo "see you in the next build"     │
+│ pierrick@creative-lab:~$ echo "see you in the next build"    │
 │                                                              │
 │             BUILD IT. BREAK IT. MAKE IT BETTER.              │
 │                                                              │
