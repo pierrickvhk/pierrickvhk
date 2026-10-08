@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
+  <title id="title">PIERRICK.OS — Creative Engineering Lab</title>
+  <desc id="desc">A bright, modern AI-inspired desktop with nostalgic pixel UI. Windows display Pierrick's coding lab and current projects.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#F6FAFF"/><stop offset="0.54" stop-color="#ECF4FE"/><stop offset="1" stop-color="#F1EAFE"/></linearGradient>
+    <linearGradient id="task" x1="0" x2="1"><stop stop-color="#145EDB"/><stop offset="0.58" stop-color="#356AE4"/><stop offset="1" stop-color="#5858DE"/></linearGradient>
+    <linearGradient id="titlebar" x1="0" x2="1"><stop stop-color="#3B78EF"/><stop offset="0.55" stop-color="#725DEB"/><stop offset="1" stop-color="#9365EF"/></linearGradient>
+    <linearGradient id="ribbon" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#6BE7E5"/><stop offset="0.45" stop-color="#8CA2FF"/><stop offset="1" stop-color="#E6A4EC"/></linearGradient>
+    <linearGradient id="button" x1="0" x2="1"><stop stop-color="#60C966"/><stop offset="1" stop-color="#288B5D"/></linearGradient>
+    <filter id="shadow" x="-40%" y="-40%" width="180%" height="190%"><feDropShadow dx="0" dy="12" stdDeviation="14" flood-color="#4B629F" flood-opacity="0.20"/></filter>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="30"/></filter>
+    <pattern id="dots" width="19" height="19" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.3" fill="#8FADF0" opacity=".25"/></pattern>
+  </defs>
+  <rect x="0" y="0" width="1200" height="430" rx="20" fill="url(#bg)"/>
+  <rect x="0" y="0" width="1200" height="392" rx="20" fill="url(#dots)"/>
+  <ellipse cx="900" cy="170" rx="180" ry="138" fill="#E4CBFF" opacity=".55" filter="url(#glow)"/>
+  <ellipse cx="465" cy="310" rx="140" ry="85" fill="#94F3ED" opacity=".38" filter="url(#glow)"/>
+  <path d="M0 347 C173 278 267 380 425 329 S681 313 784 347 V392 H0Z" fill="#D9F3E9" opacity=".8"/>
+  <path d="M0 365 C160 329 298 384 453 343 S685 345 824 360 V392 H0Z" fill="#B9E5E5" opacity=".35"/>
+
+  <!-- the brand rail -->
+  <g font-family="'DejaVu Sans Mono',monospace" fill="#16294B">
+    <rect x="49" y="47" width="144" height="28" rx="9" fill="#FFFFFF" stroke="#C9DCF8" stroke-width="1.5"/>
+    <rect x="60" y="56" width="9" height="9" fill="#34B76F"/>
+    <text x="79" y="65" font-size="12" font-weight="700" letter-spacing="1">SYSTEM ONLINE</text>
+    <text x="50" y="149" font-size="70" font-weight="800" letter-spacing="-5">PIERRICK<tspan fill="#6574E9">.</tspan>OS</text>
+    <text x="54" y="181" font-size="16" font-weight="700" letter-spacing="3.4" fill="#485F85">CREATIVE ENGINEERING LAB</text>
+    <path d="M54 212 L300 212" stroke="url(#ribbon)" stroke-width="6" stroke-linecap="round"/>
+    <text x="54" y="248" font-family="'DejaVu Sans',sans-serif" font-size="23" font-weight="700" fill="#132A4B">I build things that actually work.</text>
+    <text x="54" y="278" font-family="'DejaVu Sans',sans-serif" font-size="16" fill="#506681">AI systems. Automations. Side quests.</text>
+    <text x="54" y="306" font-family="'DejaVu Sans',sans-serif" font-size="16" fill="#506681">A little nostalgia. A lot of curiosity.</text>
+    <rect x="54" y="326" width="214" height="33" rx="10" fill="#162D57"/>
+    <text x="71" y="348" font-size="13" fill="#FFFFFF" font-weight="700">C:\PIERRICK\LAB&gt; _</text>
+  </g>
+
+  <!-- tiny decorative pixels -->
+  <g opacity=".92">
+    <path d="M575 91h12v12h-12z M587 79h12v12h-12z M599 91h12v12h-12z M587 103h12v12h-12z" fill="#8A9DF0"/>
+    <path d="M625 270h8v8h-8z M633 262h8v8h-8z M641 270h8v8h-8z" fill="#50CCAD"/>
+    <path d="M675 137h10v10h-10z M685 147h10v10h-10z" fill="#BDA1EC"/>
+  </g>
+
+  <!-- background dialogue: playful XP nostalgia -->
+  <g filter="url(#shadow)" opacity=".9">
+    <rect x="755" y="54" width="363" height="270" rx="13" fill="#FFFFFF" stroke="#B7B8EC" stroke-width="2"/>
+    <path d="M755 68q0-14 14-14h335q14 0 14 14v30H755Z" fill="#9E8AEE"/>
+    <rect x="777" y="68" width="12" height="12" rx="2" fill="#FFCF8A"/>
+    <text x="803" y="80" fill="#fff" font-family="'DejaVu Sans Mono',monospace" font-size="12" font-weight="700">SIDEQUEST.EXE</text>
+    <rect x="1074" y="67" width="21" height="19" rx="4" fill="#FEF2F9"/>
+    <text x="1080" y="81" fill="#A45D9F" font-family="sans-serif" font-size="15" font-weight="700">×</text>
+  </g>
+
+  <!-- foreground app explorer -->
+  <g filter="url(#shadow)">
+    <rect x="701" y="89" width="420" height="275" rx="13" fill="#FFFFFF" stroke="#A4BDE9" stroke-width="2"/>
+    <path d="M702 104q0-15 15-15h388q15 0 15 15v32H702Z" fill="url(#titlebar)"/>
+    <rect x="717" y="105" width="18" height="16" rx="3" fill="#DBF7E8"/>
+    <path d="M720 109h12v9h-12z" fill="#2E9362"/>
+    <text x="745" y="119" font-size="14" font-family="'DejaVu Sans Mono',monospace" font-weight="700" fill="#FFFFFF">BUILD_EXPLORER / C:\LAB</text>
+    <rect x="1033" y="102" width="20" height="20" rx="4" fill="#A1C7FF" opacity=".75"/>
+    <rect x="1060" y="102" width="20" height="20" rx="4" fill="#A1C7FF" opacity=".75"/>
+    <rect x="1087" y="102" width="20" height="20" rx="4" fill="#F47A94"/>
+    <text x="1092" y="117" font-family="sans-serif" font-size="15" font-weight="700" fill="white">×</text>
+    <rect x="722" y="147" width="375" height="30" rx="6" fill="#F5F8FF" stroke="#DDE7F8"/>
+    <text x="735" y="167" font-size="12" font-family="'DejaVu Sans Mono',monospace" fill="#5B7095">C:  /  Pierrick  /  Projects</text>
+    <line x1="722" x2="1097" y1="191" y2="191" stroke="#E8EAF6"/>
+    <!-- project tile 1 -->
+    <rect x="722" y="203" width="178" height="60" rx="9" fill="#EBF8F4"/>
+    <rect x="733" y="216" width="31" height="30" rx="6" fill="#54CEAB"/>
+    <path d="M739 224h19v4h-19zM739 231h13v4h-13zM739 238h16v3h-16z" fill="#FFFFFF"/>
+    <text x="775" y="229" font-size="14" font-family="'DejaVu Sans',sans-serif" font-weight="700" fill="#173956">PiPresent</text>
+    <text x="775" y="247" font-size="10" font-family="monospace" fill="#527C70">PUBLIC BUILD</text>
+    <!-- project tile 2 -->
+    <rect x="914" y="203" width="184" height="60" rx="9" fill="#F1EDFF"/>
+    <rect x="925" y="216" width="31" height="30" rx="6" fill="#9376EE"/>
+    <rect x="931" y="222" width="9" height="9" rx="1" fill="#FFFFFF"/><rect x="943" y="222" width="7" height="7" rx="1" fill="#FFFFFF"/><rect x="931" y="234" width="19" height="6" rx="1" fill="#FFFFFF"/>
+    <text x="967" y="229" font-size="14" font-family="'DejaVu Sans',sans-serif" font-weight="700" fill="#173956">Startblok</text>
+    <text x="967" y="247" font-size="10" font-family="monospace" fill="#6E6197">PROTOTYPE</text>
+    <!-- project tile 3 -->
+    <rect x="722" y="273" width="178" height="60" rx="9" fill="#EAF4FE"/>
+    <rect x="733" y="286" width="31" height="30" rx="6" fill="#54A9F8"/>
+    <path d="M740 294h17v4h-17z M740 302h7v7h-7z M751 302h7v7h-7z" fill="#FFFFFF"/>
+    <text x="775" y="299" font-size="14" font-family="'DejaVu Sans',sans-serif" font-weight="700" fill="#173956">MSkill</text>
+    <text x="775" y="316" font-size="10" font-family="monospace" fill="#5C83AC">IN THE LAB</text>
+    <!-- project tile 4 -->
+    <rect x="914" y="273" width="184" height="60" rx="9" fill="#FFF2E7"/>
+    <rect x="925" y="286" width="31" height="30" rx="6" fill="#FCB765"/>
+    <path d="M931 308l6-6 5 3 8-12" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linecap="square"/>
+    <text x="967" y="299" font-size="14" font-family="'DejaVu Sans',sans-serif" font-weight="700" fill="#173956">F1 Data Lab</text>
+    <text x="967" y="316" font-size="10" font-family="monospace" fill="#9E754D">RESEARCH</text>
+  </g>
+
+  <!-- full-width taskbar -->
+  <path d="M0 391h1200v39H0z" fill="url(#task)"/>
+  <path d="M0 391h1200" stroke="#8DBBFF" stroke-width="3"/>
+  <rect x="12" y="395" width="119" height="30" rx="10" fill="url(#button)" stroke="#B1F1B0" stroke-width="1.3"/>
+  <g fill="#FFFFFF" font-family="'DejaVu Sans',sans-serif" font-weight="700" font-size="15"><text x="26" y="416">▦</text><text x="49" y="416" font-style="italic">start</text></g>
+  <rect x="150" y="396" width="190" height="27" rx="7" fill="#8FBAFF" opacity=".35" stroke="#C1D8FF" stroke-opacity=".8"/>
+  <text x="165" y="415" font-size="12" font-family="monospace" font-weight="700" fill="#FFFFFF">●  lab_home.md</text>
+  <rect x="349" y="396" width="174" height="27" rx="7" fill="#8FBAFF" opacity=".2"/>
+  <text x="362" y="415" font-size="12" font-family="monospace" fill="#E8F3FF">◈  projects.exe</text>
+  <text x="1034" y="415" font-size="12" font-family="monospace" font-weight="700" fill="#FFFFFF">BUILD MODE  ●</text>
+</svg>
